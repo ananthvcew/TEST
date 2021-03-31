@@ -16,11 +16,16 @@
                 <h2>Hosting Plans</h2>
               </div>
               <ul class="footer-list">
-                <li><a href="#">Basic Cloud 5X</a></li>
+                <li><a href="#">Basic Cloud 5X ananth</a></li>
                 <li><a href="#">Cloud VPS 10X</a></li>
                 <li><a href="#">Advanced Cloud</a></li>
                 <li><a href="#">Custom Designs</a></li>
                 <li><a href="#">Special Solutions</a></li>
+
+
+
+
+                
               </ul>
             </div>
           </div>
